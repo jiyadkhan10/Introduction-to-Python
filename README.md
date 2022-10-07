@@ -9,12 +9,16 @@
 
 # Lecture 1
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/1.%20Python%20syntax%20essentials"> Python syntax essentials </a></li>
+
 # Lecture 2
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/2.%20Flow%20controls"> Flow controls </a></li>
+
 # Lecture 3
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/3.%20Functions"> Functions </a></li>
+
 # Lecture 4
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/4.%20Data%20structures"> Data Sructures </a></li>
+
 # Lecture 5
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/5.%20Files%20and%20errors"> Files and Erors /a></li>
 
