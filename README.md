@@ -20,7 +20,7 @@
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/4.%20Data%20structures"> Data Sructures </a></li>
 
 # Lecture 5
-<li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/5.%20Files%20and%20errors"> Files and Erors /a></li>
+<li><a href="https://github.com/jiyadkhan10/Introduction-to-Python/tree/main/Introduction%20to%20Python/5.%20Files%20and%20errors"> Files and Erors </a></li>
 
 # Languages
 <li> Python </li>
