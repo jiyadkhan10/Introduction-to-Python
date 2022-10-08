@@ -3,7 +3,7 @@
 </div>
 
 # Introduction to Python
-<p dir="auto">You can find more information about the Introduction to Python Programming Course by visiting <a href="https://globalaihub.com/courses/introduction-to-python-turkish/" rel="nofollow">Course Website</a></p>
+<p dir="auto">You can find more information about the Introduction to Python Programming Course by visiting <a href="https://globalaihub.com/courses/introduction-to-python/" rel="nofollow">Course Website</a></p>
 
 # Syllabus
 
